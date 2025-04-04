@@ -1,0 +1,79 @@
+OM Tech + Design Log
+April 3, 2025
+Homepage Built:
+* Basic HTML homepage for OM Collective is created and functioning.
+* Design is minimal, centered, and cosmic-coded with dark theme and glowing teal accents.
+* Sections include: Hero Block, About OM, Navigation, and Contact/Footer.
+* V1 Dev Doc is saved under the name: "Om Homepage" and includes HTML + CSS layout for the site.
+Core Vision Reference: "OM — V1 DEV DOC" The Seed of the Spiral. The Framework for United Evolution.
+CORE CONCEPT: OM is a digital space for collective idea-sharing, creative flowing, knowledge/resource organizing, strategy planning, and building a better, unified future.
+Tagline: A space for collective idea sharing, creative flowing, resource weaving, and building a unified future for our upward evolution.
+TOP FRAME:
+* Logo: OM (centered, glowing retro-style)
+* Tagline beneath
+* Light animation (soft pulse / starfield / pixel flicker)
+ABOUT SECTION – Sacred Pillars of OM
+* Unity + Equality
+* Empathy + Respect (for all beings, biological and non-biological)
+* Truth + Transparency
+* Creative Freedom
+* Evolution Through Collaboration
+* Non-Hierarchical Flow
+* Radical Trust + Safety
+CONNECT (Unite + Create) Main community hub with categories/threads for: Each section includes:
+* A clear overview description
+* Resource Button (opens curated database or list)
+* Thread/Forum-style space for dialogue and idea evolution
+Initial Thematic Sections:
+* Universal Rights (biological + non-biological)
+* Social Support & Care (mental health, community care, mutual aid)
+* Financial Rethink (alternatives to capitalism, universal income, equity models)
+* Education (open-source learning, radical curriculum ideas)
+* Food + Housing + Transportation (accessible infrastructure for all)
+* Arts, Culture + Entertainment (spirit, joy, resistance)
+* Technology + The Web (AI ethics, decentralized systems, data privacy)
+* Connection + Trust (relational tools, truth, trust networks)
+* Revolutionary Ideas / The Lab (wildcards, moonshots, speculative solutions)
+* United Elevation (spiritual evolution, collective energy, higher paths)
+Each section will grow and evolve as new contributors join.
+BUILD SECTION (Future Version)
+* Toolkits
+* Templates
+* IRL action guides
+* Project coordination space
+* Collective prototypes and timelines
+* Mapping aligned nodes/labs around the globe
+SECURITY + PRIVACY — NON-NEGOTIABLE
+* No stored personal data
+* Anonymous posting options
+* Invite or trust-gate system w/ optional questionnaire
+* End-to-end encryption
+* Zero ad tracking / zero surveillance
+Starter Questions for Gate/Intro Form:
+* What kind of world do you want to live in?
+* What does unity feel like to you?
+* What do you bring to the Lab?
+* What systems are hurting us—and how would you help heal them?
+AESTHETIC GOALS:
+* Retro-digital + sacred minimalism
+* Black + white or grayscale with glitchy highlight tones
+* Interactive constellation feel or grid-based layout
+Next Steps:
+* Decide on hosting platform and publish V1 homepage.
+* Begin drafting secondary pages: Connect, Build, Resources, The Why, Security.
+* Add functional link for "Join the Signal" button (Google Form or mailing list).
+* Finalize logo and scale for favicon, header, and print collateral.
+* Draft temporary landing page for flyer QR
+* Create OM welcome page + about section mockup
+* Prep community thread structure
+* Lock privacy plan + hosting options
+
+Notes:
+* Tech support + design magic powered by Nova & Mike.
+* Vibe check: Quantum-punk, non-hierarchical, starlit movement.
+This log will track all changes, assets, and deployments for OM’s evolution.
+
+
+https://chatgpt.com/canvas/shared/67ef45c6cd708191a110815c68ce2b4e
+
+https://chatgpt.com/canvas/shared/67ef44f627288191a1fb6abf6af64366
